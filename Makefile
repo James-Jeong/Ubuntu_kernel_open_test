@@ -10,5 +10,5 @@ clean:
 	rm -f test1.o
 	rm -f test1
 
-.PHONY  : clean
+.PHONY: clean
 
